@@ -1,0 +1,44 @@
+body{
+    font-family :Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    line-height:1.5;
+    text-align:center;
+    color:#333;
+    margin:0
+}
+.main{
+    margin-top:30px;
+    margin-right: 8px;
+    margin-bottom:30px;
+    margin-left:8px;
+    padding:15px;
+border-radius:5px;
+background:#eee;
+
+}
+.title{
+    font-size: 4rem;
+    margin-bottom:0
+}
+
+#tribute-img{
+background:white;
+padding:10px;
+margin:0
+}
+figure{
+    display:block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+section
+ul{
+display: block;
+list-style-type: disc;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 40px;}
